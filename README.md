@@ -12,8 +12,8 @@ Evaluate year to year production to try and predict future performance.
 -Expected slugging increased .042 points from 2024 to 2025, indicating a notable increase in quality of contact.
 -Actual slugging increased by .010, suggesting results have not fully reflected the increase in quality of contact.
 -Strikeout rate decreased by 4 percentage points (18 percentile point increase)
--Walk rate increased by 0.7 percentage points (6 percentile increase)
+-Walk rate increased by 0.7 percentage points (6 percentile point increase)
 ## Conclusion
-Increases in quality of contact and plate discipline show steady growth, indicating offenseive upside entering 2026 season.
+Increases in quality of contact and plate discipline show steady growth, indicating offensive upside entering 2026 season.
 ## Tools Used
 Python, pandas, matplotlib
