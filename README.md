@@ -19,7 +19,7 @@ Evaluate year to year production to try and predict future performance.
 ![xSLG vs SLG](xslg_vs_slg.png)
 
 ### Strikeout Rate
-![Strikeout Rate](strikeout_rate.png## 
+![Strikeout Rate](strikeout_rate.png) 
 
 ## S.P.E.C.I.A.L Breakdown
 **Strength (7/10) Has had top 20th percentile bat speed back to back years. Was in top 6 percent of hitters in hard hit percentage and in the top 14 percent in average exit velocity, numbers regressed to league average in 2025 but still showcased the elite power potential. Consistently top 3 percentile of arm strength.
