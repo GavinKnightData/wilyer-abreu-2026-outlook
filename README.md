@@ -17,3 +17,10 @@ Evaluate year to year production to try and predict future performance.
 Increases in quality of contact and plate discipline show steady growth, indicating offensive upside entering 2026 season.
 ## Tools Used
 Python, pandas, matplotlib
+## Visualizations 
+
+### Expected vs Actual Slugging
+![xSLG vs SLG](xslg_vs_slg.png)
+
+### Strikeout Rate
+![Strikeout Rate](strikeout_rate.png)
