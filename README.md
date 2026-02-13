@@ -1,4 +1,4 @@
-# wilyer-abreu-2026-outlook
+# Wilyer-Abreu-2026-outlook
 Data-driven performance outlook for the 2026 season
 ## Project Goal
 Evaluate year to year production to try and predict future performance.
